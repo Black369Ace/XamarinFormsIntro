@@ -1,0 +1,9 @@
+C:\Users\black\source\repos\XamarinFormsIntro\XamarinFormsIntro\XamarinFormsIntro.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\black\source\repos\XamarinFormsIntro\XamarinFormsIntro\XamarinFormsIntro.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\black\source\repos\XamarinFormsIntro\XamarinFormsIntro\XamarinFormsIntro.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\black\source\repos\XamarinFormsIntro\XamarinFormsIntro\XamarinFormsIntro.iOS\obj\iPhone\Debug\optimized\
+C:\Users\black\source\repos\XamarinFormsIntro\XamarinFormsIntro\XamarinFormsIntro.iOS\obj\iPhone\Debug\XamarinFormsIntro.iOS.csprojResolveAssemblyReference.cache
+C:\Users\black\source\repos\XamarinFormsIntro\XamarinFormsIntro\XamarinFormsIntro.iOS\obj\iPhone\Debug\XamarinFormsIntro.iOS.csproj.CoreCompileInputs.cache
+C:\Users\black\source\repos\XamarinFormsIntro\XamarinFormsIntro\XamarinFormsIntro.iOS\obj\iPhone\Debug\XamarinFormsIntro.iOS.App.xaml.g.cs
+C:\Users\black\source\repos\XamarinFormsIntro\XamarinFormsIntro\XamarinFormsIntro.iOS\obj\iPhone\Debug\XamarinFormsIntro.iOS.MainPage.xaml.g.cs
+C:\Users\black\source\repos\XamarinFormsIntro\XamarinFormsIntro\XamarinFormsIntro.iOS\obj\iPhone\Debug\XamarinFormsIntro.iOS.QuotesPage.xaml.g.cs

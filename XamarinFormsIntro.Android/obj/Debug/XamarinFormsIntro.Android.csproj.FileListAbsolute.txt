@@ -1,0 +1,8 @@
+C:\Users\black\source\repos\XamarinFormsIntro\XamarinFormsIntro\XamarinFormsIntro.Android\obj\Debug\XamarinFormsIntro.Android.csprojResolveAssemblyReference.cache
+C:\Users\black\source\repos\XamarinFormsIntro\XamarinFormsIntro\XamarinFormsIntro.Android\obj\Debug\XamarinFormsIntro.Android.csproj.CoreCompileInputs.cache
+C:\Users\black\source\repos\XamarinFormsIntro\XamarinFormsIntro\XamarinFormsIntro.Android\obj\Debug\XamarinFormsIntro.Droid.App.xaml.g.cs
+C:\Users\black\source\repos\XamarinFormsIntro\XamarinFormsIntro\XamarinFormsIntro.Android\obj\Debug\XamarinFormsIntro.Droid.MainPage.xaml.g.cs
+C:\Users\black\source\repos\XamarinFormsIntro\XamarinFormsIntro\XamarinFormsIntro.Android\obj\Debug\XamarinFormsIntro.Droid.BlankPage.xaml.g.cs
+C:\Users\black\source\repos\XamarinFormsIntro\XamarinFormsIntro\XamarinFormsIntro.Android\obj\Debug\XamarinFormsIntro.Android.dll
+C:\Users\black\source\repos\XamarinFormsIntro\XamarinFormsIntro\XamarinFormsIntro.Android\obj\Debug\XamarinFormsIntro.Android.pdb
+C:\Users\black\source\repos\XamarinFormsIntro\XamarinFormsIntro\XamarinFormsIntro.Android\obj\Debug\XamarinFormsIntro.Droid.QuotesPage.xaml.g.cs
